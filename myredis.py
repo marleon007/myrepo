@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#This is a copy from the original redis.py that I'll be using to test
 #Author : Avinash Kumar Thapa aka -Acid
 #Twitter : https://twitter.com/m_avinash143
 #####################################################################################################################################################
